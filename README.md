@@ -1,4 +1,4 @@
-# fuxploider
+# Fuxploider
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6%20%2B-green.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv3-red.svg)](https://raw.githubusercontent.com/almandin/fuxploider/master/LICENSE.md)
 
